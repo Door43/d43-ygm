@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ygm:home|Door43 (ygm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ygm|d43-ygm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ygm/archive/master.zip|d43-ygm.zip]]
+
+**Recent Changes**
+{{changes>ns = ygm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ygm|Ethnologue data]]
+
